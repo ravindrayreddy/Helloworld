@@ -1,0 +1,14 @@
+ Volume in drive C is Windows 
+ Volume Serial Number is DE26-9533
+
+ Directory of C:\java-example
+
+02-03-2022  19:47    <DIR>          .
+02-03-2022  19:47    <DIR>          ..
+02-03-2022  18:29               908 Helloworld.class
+02-03-2022  16:47               149 Helloworld.java
+02-03-2022  16:45               145 Helloworld.java.bak
+02-03-2022  19:47                 0 ravindra.txt
+02-03-2022  17:56                66 readme.txt
+               5 File(s)          1,268 bytes
+               2 Dir(s)  142,577,852,416 bytes free
